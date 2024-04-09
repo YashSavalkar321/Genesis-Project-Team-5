@@ -1,0 +1,8 @@
+     Cust.ID          Name          age  phone No.         email           address      
+  
+     
+      #f013             Yash          0    5090432                                
+      #f014             Yash         18     123456 yash321@gmai.com        dfngnadh
+      #f015            Kedar         28    9865466    kd@gmail.com   At.pt.palashi
+      #f016            Kedar         18 8766516104 Kedardhotre6@gmail.com   at.pt.palashi
+     

@@ -1,0 +1,6 @@
+     Cust.ID       Item       quantity      cost 
+     
+      #f012      Mirchi bhji     2           50
+      #f014      MisalPav        5          200
+      #f016      Mirchi bhji    10          250
+    
